@@ -1,6 +1,6 @@
 # Intake: KEVIN
 
-Source: `KEVIN 2.0.txt`. Facts only. Sheet fields from spec section 2.
+Source: `KEVIN 2.0.txt`. Organic social media case study. Facts only. Fields from spec section 2.
 
 **Name**
 - First name: Kevin (the transcript also reads "Caven," likely a transcription error). Confirm
@@ -16,7 +16,6 @@ Source: `KEVIN 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **Before behavior**
 - Did not post on social media consistently
 - No clear sense of what worked
-- How clients came in: MISSING
 
 **Before numbers**
 - MISSING (starting followers, views, and engagement not given; only the multipliers below)
@@ -27,7 +26,6 @@ Source: `KEVIN 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - Engagement up 300%+
 - 700+ pieces of content
 - Reaches millions of people a month (no exact figure)
-- Calls, clients, revenue, deal size, close rate: MISSING
 
 **Timeframe**
 - Six months
@@ -39,7 +37,7 @@ Source: `KEVIN 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - MISSING
 
 **Channel doubt**
-- MISSING
+- N/A (Archer-only)
 
 **Skeptic**
 - MISSING
@@ -53,7 +51,7 @@ Source: `KEVIN 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - MISSING
 
 **Qualification**
-- MISSING
+- N/A (Archer-only)
 
 **Founder time now**
 - Sales calls: MISSING
@@ -65,17 +63,14 @@ Source: `KEVIN 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **CTA audience**
 - MISSING
 
+**Meta proof number**
+- N/A (Archer-only)
+
+**Sales result**
+- N/A (Archer-only)
+
 **Client's own words**
 - MISSING (the transcript is agency narration; no client quotes)
-
-## Missing-data rule check
-
-Not script-ready. Missing:
-- Confirmed name
-- How clients came in before, and any before number
-- Business outcomes as numbers (calls, clients, revenue)
-- Why the main intervention worked
-- Meta proof number (how many new clients came from ads)
 
 ## Transcript notes
 - Name appears as both "Caven" and "Kevin".

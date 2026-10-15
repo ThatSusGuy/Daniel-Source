@@ -1,6 +1,6 @@
 # Intake: GREG
 
-Source: `GREG 2.0.txt`. Facts only. Sheet fields from spec section 2.
+Source: `GREG 2.0.txt`. Organic social media case study (organic content later turned into ads). Facts only. Fields from spec section 2.
 
 **Name**
 - First name: Greg
@@ -25,9 +25,8 @@ Source: `GREG 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **After numbers**
 - First campaign: 21x return on about $377 of ad spend (transcript: "$370 seven dollars")
 - An extra $10K a month in revenue (stated as "10 K a month")
-- Daily ad spend behind that: transcript says "$50,000 a day," which can't be right against $10K a month. Confirm
-- First time he can predict revenue (no figure)
-- Calls, clients, deal size, close rate, cost per booked call: MISSING
+- Daily ad spend behind that: transcript says "$50,000 a day," which conflicts with $10K a month. Confirm
+- First time he can predict his revenue (no figure)
 
 **Timeframe**
 - MISSING
@@ -39,7 +38,7 @@ Source: `GREG 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - MISSING
 
 **Channel doubt**
-- MISSING
+- N/A (Archer-only)
 
 **Skeptic**
 - MISSING
@@ -53,7 +52,7 @@ Source: `GREG 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - Agency's stated reason for the content mix: prospects looked him up before hiring him, and the range of content was valuable to them
 
 **Qualification**
-- MISSING
+- N/A (Archer-only)
 
 **Founder time now**
 - MISSING
@@ -64,16 +63,14 @@ Source: `GREG 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **CTA audience**
 - MISSING
 
+**Meta proof number**
+- N/A (Archer-only)
+
+**Sales result**
+- N/A (Archer-only)
+
 **Client's own words**
 - MISSING (the transcript is agency narration; no client quotes)
-
-## Missing-data rule check
-
-Not script-ready. Missing:
-- Confirmed daily ad spend (see After numbers); the revenue figure must be exact if used
-- Timeframe
-- Ad platform, and the Meta proof number (how many new clients came from ads)
-- New clients or calls as a count
 
 ## Transcript notes
 - "word amount" means "word of mouth".

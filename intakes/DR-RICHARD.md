@@ -1,6 +1,6 @@
 # Intake: DR. RICHARD
 
-Source: `DR. RICHARD 2.0.txt`. Facts only. Sheet fields from spec section 2.
+Source: `DR. RICHARD 2.0.txt`. Organic social media case study. Facts only. Fields from spec section 2.
 
 **Name**
 - First name: Richard (title "Dr.")
@@ -18,7 +18,6 @@ Source: `DR. RICHARD 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **Before behavior**
 - Posted several times a day for years with almost no traction
 - Did all of it himself
-- How clients came in: MISSING
 
 **Before numbers**
 - 869 posts before starting
@@ -32,7 +31,6 @@ Source: `DR. RICHARD 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - Now posts once or twice a day
 - Many videos with hundreds of thousands of views (no exact figure)
 - DMs full of prospects asking to work with him (no count)
-- Calls, clients, revenue, deal size, close rate: MISSING
 
 **Timeframe**
 - Six months
@@ -44,7 +42,7 @@ Source: `DR. RICHARD 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - MISSING (inbound DMs are described as heavy, but nothing shows demand outgrew the business)
 
 **Channel doubt**
-- MISSING
+- N/A (Archer-only)
 
 **Skeptic**
 - MISSING
@@ -59,7 +57,7 @@ Source: `DR. RICHARD 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - Agency's stated reason: repeating a proven format made the next posts easy to plan
 
 **Qualification**
-- MISSING
+- N/A (Archer-only)
 
 **Founder time now**
 - Sales calls: MISSING
@@ -71,12 +69,11 @@ Source: `DR. RICHARD 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **CTA audience**
 - MISSING
 
+**Meta proof number**
+- N/A (Archer-only)
+
+**Sales result**
+- N/A (Archer-only)
+
 **Client's own words**
 - MISSING (the transcript is agency narration; no client quotes)
-
-## Missing-data rule check
-
-Not script-ready. Missing:
-- How clients came in before
-- Business outcomes as numbers (calls, clients, revenue)
-- Meta proof number (how many new clients came from ads)

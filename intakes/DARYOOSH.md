@@ -1,6 +1,6 @@
 # Intake: DARYOOSH
 
-Source: `DARYOOSH 2.0.txt`. Facts only. Sheet fields from spec section 2.
+Source: `DARYOOSH 2.0.txt`. Organic social media case study. Facts only. Fields from spec section 2.
 
 **Name**
 - First name: the transcript never names him; "Daryoosh" comes from the file name only
@@ -19,17 +19,15 @@ Source: `DARYOOSH 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - Had posted consistently for months
 - Content was trend recreations, office skits, and dance videos made with his office team
 - Got views but not clients; no tracking or planning
-- How clients came in: MISSING
 
 **Before numbers**
-- MISSING (no before figures given)
+- MISSING
 
 **After numbers**
 - 3.6 million views across platforms
 - 10,000+ followers gained
 - 400+ posts across platforms within six months
 - A reusable content library (size MISSING)
-- Calls, clients, revenue, deal size, close rate: MISSING
 
 **Timeframe**
 - Views and followers: "a few months" (no exact figure)
@@ -42,7 +40,7 @@ Source: `DARYOOSH 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - MISSING
 
 **Channel doubt**
-- MISSING
+- N/A (Archer-only)
 
 **Skeptic**
 - MISSING
@@ -58,7 +56,7 @@ Source: `DARYOOSH 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - Agency's stated reason for the studio: video quality signals how professional he is
 
 **Qualification**
-- MISSING
+- N/A (Archer-only)
 
 **Founder time now**
 - Sales calls: MISSING
@@ -70,17 +68,14 @@ Source: `DARYOOSH 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **CTA audience**
 - MISSING
 
+**Meta proof number**
+- N/A (Archer-only)
+
+**Sales result**
+- N/A (Archer-only)
+
 **Client's own words**
 - MISSING (the transcript is agency narration; no client quotes)
-
-## Missing-data rule check
-
-Not script-ready. Missing:
-- Confirmed name (transcript doesn't name him) and practice area
-- Any before number
-- Exact timeframe for views and followers
-- Business outcomes as numbers (calls, clients, revenue)
-- Meta proof number (how many new clients came from ads)
 
 ## Transcript notes
 - "our use license attorney" is garbled; practice area can't be recovered from the text.

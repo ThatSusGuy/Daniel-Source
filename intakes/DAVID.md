@@ -1,6 +1,6 @@
 # Intake: DAVID
 
-Source: `DAVID 2.0.txt`. Facts only. Sheet fields from spec section 2.
+Source: `DAVID 2.0.txt`. Organic social media case study. Facts only. Fields from spec section 2.
 
 **Name**
 - First name: David
@@ -27,7 +27,6 @@ Source: `DAVID 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - $0 ad spend
 - 20 million views a month
 - 1.8 million+ followers across platforms
-- Calls, clients, revenue, deal size, close rate, cost per lead: MISSING
 
 **Timeframe**
 - 90 days
@@ -39,7 +38,7 @@ Source: `DAVID 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - Ad spend dropped to zero while leads reached 1,000+ a month
 
 **Channel doubt**
-- MISSING
+- N/A (Archer-only)
 
 **Skeptic**
 - MISSING
@@ -54,7 +53,7 @@ Source: `DAVID 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - Agency's stated reason for the system: spotting what works fast and improving on it
 
 **Qualification**
-- MISSING (what counts as a lead is not defined)
+- N/A (Archer-only)
 
 **Founder time now**
 - MISSING
@@ -65,15 +64,14 @@ Source: `DAVID 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **CTA audience**
 - MISSING
 
+**Meta proof number**
+- N/A (Archer-only)
+
+**Sales result**
+- N/A (Archer-only)
+
 **Client's own words**
 - MISSING (the transcript is agency narration; no client quotes)
-
-## Missing-data rule check
-
-Not script-ready. Missing:
-- One consistent before ad-spend figure
-- Sales or revenue outcome (leads are counted, sales are not)
-- Meta proof number (how many new clients came from ads; here ads were turned off, so the source of clients needs confirming)
 
 ## Transcript notes
 - Before ad spend and before audience size are each stated two different ways (see Before numbers).

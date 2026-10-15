@@ -1,6 +1,6 @@
 # Intake: JAY
 
-Source: `JAY 2.0.txt`. Facts only. Sheet fields from spec section 2.
+Source: `JAY 2.0.txt`. Organic social media case study. Facts only. Fields from spec section 2.
 
 **Name**
 - First name: Jay. The transcript also says "Lee Genj," possibly a brand or handle; unclear
@@ -18,7 +18,6 @@ Source: `JAY 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **Before behavior**
 - Long-form YouTube was working; short-form content was not
 - His goal: 10,000 followers within a year, from an audience willing to pay for his services
-- How clients came in: MISSING
 
 **Before numbers**
 - Starting follower count: MISSING
@@ -29,7 +28,6 @@ Source: `JAY 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - 100,000+ followers (the opening says "tens of thousands"). Confirm
 - Tens of millions of views across platforms (no exact figure)
 - Organic content brings in leads consistently (no count)
-- Calls, clients, revenue, deal size, close rate: MISSING
 
 **Timeframe**
 - Six weeks to 10,000 followers
@@ -42,7 +40,7 @@ Source: `JAY 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - MISSING
 
 **Channel doubt**
-- MISSING
+- N/A (Archer-only)
 
 **Skeptic**
 - MISSING
@@ -50,13 +48,13 @@ Source: `JAY 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **Interventions** (3; listed by code, not in transcript order)
 - DFY (nearest fit): planned a month of content ahead and improved his studio setup so he could film it all in half a day
 - TARGET (nearest fit): researched his brand and niche, built content ideas for his ideal audience, and scripted dozens of videos
-- No direct 4C code: content for reach, follow-up content to retarget those viewers, then lead magnets and direct offers to turn followers into customers (4C rules out describing funnel stages)
+- No direct 4C code: content for reach, follow-up content to retarget those viewers, then lead magnets and direct offers to turn followers into customers
 
 **Why it worked**
 - MISSING
 
 **Qualification**
-- MISSING
+- N/A (Archer-only)
 
 **Founder time now**
 - Sales calls: MISSING
@@ -68,16 +66,14 @@ Source: `JAY 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **CTA audience**
 - MISSING
 
+**Meta proof number**
+- N/A (Archer-only)
+
+**Sales result**
+- N/A (Archer-only)
+
 **Client's own words**
 - MISSING (the transcript is agency narration; no client quotes)
-
-## Missing-data rule check
-
-Not script-ready. Missing:
-- How clients came in before, and a starting follower count
-- Business outcomes as numbers (calls, clients, revenue)
-- Why the main intervention worked
-- Meta proof number (how many new clients came from ads)
 
 ## Transcript notes
 - Follower total stated two ways: "tens of thousands" (opening) and "over 100,000" (body).

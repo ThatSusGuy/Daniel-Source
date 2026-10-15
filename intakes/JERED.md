@@ -1,6 +1,6 @@
 # Intake: JERED
 
-Source: `JERED 2.0.txt`. Facts only. Sheet fields from spec section 2.
+Source: `JERED 2.0.txt`. Organic social media case study. Facts only. Fields from spec section 2.
 
 **Name**
 - First name: spelled "Jared" in the transcript, "Jered" in the file name. Confirm spelling
@@ -28,11 +28,10 @@ Source: `JERED 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **After numbers**
 - 400,000+ followers
 - 200 million+ views
-- $60,000 a month of ad spend replaced by social leads
+- $60,000 a month of ad spend replaced by leads from social media
 - 6–12 million views a month
 - Team time on content cut from 40 hours a month to 4
 - Videos regularly reach millions of views (no exact figure)
-- Lead count, calls, clients, revenue, deal size, close rate: MISSING
 
 **Timeframe**
 - MISSING
@@ -41,10 +40,10 @@ Source: `JERED 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - MISSING
 
 **Overflow fact**
-- Social leads replaced $60,000 a month of ad spend
+- Leads from social media replaced $60,000 a month of ad spend
 
 **Channel doubt**
-- MISSING
+- N/A (Archer-only)
 
 **Skeptic**
 - MISSING
@@ -52,13 +51,13 @@ Source: `JERED 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **Interventions** (3; listed by code, not in transcript order)
 - OFFER (nearest fit, positioning): stopped content that wasn't working; set up a studio and assigned an experienced editor
 - SYSTEM: content library, editing pipeline, analytics tracking, and months of content planned ahead
-- No direct 4C code: content split by purpose (views, authority, conversion) instead of unplanned posting (4C rules out describing funnel stages)
+- No direct 4C code: content split by purpose (views, authority, conversion) instead of unplanned posting
 
 **Why it worked**
 - Agency's stated reason: low-quality content gives viewers the wrong impression of the brand
 
 **Qualification**
-- MISSING
+- N/A (Archer-only)
 
 **Founder time now**
 - Sales calls: MISSING
@@ -71,16 +70,14 @@ Source: `JERED 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **CTA audience**
 - MISSING
 
+**Meta proof number**
+- N/A (Archer-only)
+
+**Sales result**
+- N/A (Archer-only)
+
 **Client's own words**
 - MISSING (the transcript is agency narration; no client quotes)
-
-## Missing-data rule check
-
-Not script-ready. Missing:
-- One consistent before views figure
-- Timeframe
-- Leads, clients, or revenue as a count (the ad-spend replacement is the only business figure)
-- Meta proof number (how many new clients came from ads)
 
 ## Transcript notes
 - Name spelling differs between transcript and file name.

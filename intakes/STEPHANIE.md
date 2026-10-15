@@ -1,6 +1,6 @@
 # Intake: STEPHANIE
 
-Source: `STEPHANIE 2.0.txt`. Facts only. Sheet fields from spec section 2.
+Source: `STEPHANIE 2.0.txt`. Organic social media case study. Facts only. Fields from spec section 2.
 
 **Name**
 - First name: Stephanie (the transcript calls her "Chelsea" once near the end, likely an error)
@@ -29,7 +29,6 @@ Source: `STEPHANIE 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - Hundreds of thousands of views per post across platforms, almost every time (no exact figure)
 - Post volume up 163% (now several posts a day), with no extra time from her
 - Thousands of website visitors from content (no exact figure)
-- Orders, revenue, conversion rate: MISSING
 
 **Timeframe**
 - Under 90 days for the views
@@ -42,7 +41,7 @@ Source: `STEPHANIE 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - MISSING
 
 **Channel doubt**
-- MISSING
+- N/A (Archer-only)
 
 **Skeptic**
 - MISSING
@@ -56,7 +55,7 @@ Source: `STEPHANIE 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - MISSING
 
 **Qualification**
-- MISSING
+- N/A (Archer-only)
 
 **Founder time now**
 - MISSING
@@ -67,15 +66,14 @@ Source: `STEPHANIE 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **CTA audience**
 - MISSING
 
+**Meta proof number**
+- N/A (Archer-only)
+
+**Sales result**
+- N/A (Archer-only)
+
 **Client's own words**
 - MISSING (the transcript is agency narration; no client quotes)
-
-## Missing-data rule check
-
-Not script-ready. Missing:
-- Sales outcomes as numbers (orders, revenue); traffic is "thousands" with no exact figure
-- Why the main intervention worked
-- Meta proof number (how many new customers came from ads)
 
 ## Transcript notes
 - "Chelsea" near the end refers to Stephanie, probably carried over from another script.

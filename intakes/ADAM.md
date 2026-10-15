@@ -1,6 +1,6 @@
 # Intake: ADAM
 
-Source: `ADAM 2.0.txt`. Facts only. Sheet fields from spec section 2.
+Source: `ADAM 2.0.txt`. Organic social media case study. Facts only. Fields from spec section 2.
 
 **Name**
 - First name: Adam
@@ -15,8 +15,7 @@ Source: `ADAM 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - Marquee clients, years, team size, revenue: MISSING
 
 **Before behavior**
-- Social media: posts were random, with no strategy or direction, because he was busy running the practice
-- How clients came in: MISSING
+- Posts were random, with no strategy or direction, because he was busy running the practice
 
 **Before numbers**
 - 344 followers
@@ -27,7 +26,6 @@ Source: `ADAM 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - Ranked in the top 4% of lawyer creators worldwide
 - Videos regularly reach hundreds of thousands to millions of views (no exact figure)
 - Local recognition and inbound opportunities from social media (no count)
-- Calls booked, new clients, revenue, pipeline, deal size, close rate: MISSING
 
 **Timeframe**
 - "A few months" (no exact figure)
@@ -39,7 +37,7 @@ Source: `ADAM 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - MISSING
 
 **Channel doubt**
-- MISSING
+- N/A (Archer-only)
 
 **Skeptic**
 - MISSING
@@ -50,10 +48,10 @@ Source: `ADAM 2.0.txt`. Facts only. Sheet fields from spec section 2.
 - SYSTEM (nearest fit): unplanned posting replaced with a structured posting system built for his audience; what was tracked: MISSING
 
 **Why it worked**
-- Agency's stated reason: Adam trusted the agency and carried out the plan exactly. This is about the client, not about a specific intervention; a reason for the main intervention is MISSING
+- Agency's stated reason: Adam trusted the agency and carried out the plan exactly. A reason tied to a specific intervention: MISSING
 
 **Qualification**
-- MISSING
+- N/A (Archer-only)
 
 **Founder time now**
 - Sales calls: MISSING
@@ -65,16 +63,14 @@ Source: `ADAM 2.0.txt`. Facts only. Sheet fields from spec section 2.
 **CTA audience**
 - MISSING
 
+**Meta proof number**
+- N/A (Archer-only)
+
+**Sales result**
+- N/A (Archer-only)
+
 **Client's own words**
 - MISSING (the transcript is agency narration; no client quotes)
-
-## Missing-data rule check
-
-Not script-ready. Missing:
-- Exact timeframe (only "a few months")
-- How clients came in before, and any business outcome (calls, clients, revenue)
-- Why the main intervention worked
-- Meta proof number (how many new clients came from ads)
 
 ## Transcript notes
 - Opening words are garbled ("His every ticker client Adam").
